@@ -4,14 +4,14 @@
 
 ---
 
-## Portfolio Summary
-- A/B Test analysis on MapleStory Star Force UI redesign
-- Retention analysis on stagnation zones and churn patterns
-- Built with SQL, Python, BigQuery, and dashboarding tools
+## 포트폴리오 3줄 요약
+- 메이플스토리 스타포스 UI 변경 A/B 테스트 분석
+- 유저 정체 및 이탈에 대한 Retention 분석
+- Python, SQL, BigQuery, Dashboarding tools 설계
 
 ---
 
-## Skills
+## 기술 스택
 - SQL
 - Python
 - BigQuery
@@ -104,7 +104,7 @@
 
 ---
 
-## Repository Structure
+## Repository 구조
 - `docs/` : 프로젝트 PDF 문서
 - `images/Project1/` : Project1 시각화 이미지
 - `images/Project2/` : Project2 시각화 이미지
