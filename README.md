@@ -1,6 +1,13 @@
 # 김민석 | Data Analyst Portfolio
 
-데이터 지표를 설계하고 실험과 로그 분석으로 개선 방향을 제안하는 데이터 분석 포트폴리오입니다.
+데이터 지표를 설계하고 로그 분석으로 개선 방향을 제안하는 데이터 분석 포트폴리오입니다.
+
+---
+
+## Portfolio Summary
+- A/B Test analysis on MapleStory Star Force UI redesign
+- Retention analysis on stagnation zones and churn patterns
+- Built with SQL, Python, BigQuery, and dashboarding tools
 
 ---
 
