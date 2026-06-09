@@ -53,11 +53,17 @@
 #### Conversion Rate
 ![Conversion Rate](images/Project1/conversion-rate.png)
 
+- Variant B의 결제 전환율이 A 대비 +3.18%p 높게 나타났고, p<0.001로 통계적으로 유의했습니다.
+
 #### Segment Analyze
 ![Segment Analyze](images/Project1/segment-analyze.png)
 
+- Mid 세그먼트에서 전환율 상승폭이 가장 크게 나타나 UI 개편 효과가 중과금 유저에게 집중된 것으로 해석했습니다.
+
 #### Behavioral Mediating Indicator
 ![Behavioral Mediating Indicator](images/Project1/behavioral-mediating-indicator.png)
+
+- Variant B에서 강화 시도 횟수와 파괴 방지 사용률이 함께 증가했습니다.
 
 ### 관련 파일
 - [Project1 PDF](docs/Project1_UI%20개편%20AB%20테스트%20분석.pdf)
@@ -86,20 +92,21 @@
 - 성장 구간별 리텐션 모니터링 대시보드 운영 제안
 
 ### 주요 시각화
-#### Cohort Analyze
-![Cohort Analyze](images/Project2/cohort-analyze.png)
-
-#### Growth Analyze
-![Growth Analyze](images/Project2/growth-analyze.png)
-
 #### Growth Efficiency
 ![Growth Efficiency](images/Project2/growth-efficiency.png)
+- 성장 효율이 낮은 유저일수록 이탈률이 높게 나타났으며, 저성장 효율 그룹의 이탈률은 고성장 효율 그룹 대비 +10.10%p 높았습니다.
 
 #### Level Analyze
 ![Level Analyze](images/Project2/level-analyze.png)
 
+- 280레벨 이후 경험치 요구량이 급격히 증가하며, 279레벨 대비 +19.35%p 상승이 확인되었습니다.
+- 이 구간의 경험치 요구량 증가는 성장 효율 저하와 이탈률 상승을 함께 설명하는 시스템 요인으로 해석했습니다.
+
 #### Location Churn
 ![location churn](images/Project2/location-churn.png)
+
+- 고레벨 지역으로 갈수록 이탈률이 상승했으며, 전체적으로 +10.93%p 증가가 확인되었습니다.
+- 특히 280레벨 이후 구간에서 이탈률 상승폭이 커져, 해당 구간을 성장 정체 핵심 구간으로 판단했습니다.
 
 ### 관련 파일
 - [Project2 PDF](docs/Project2_성장%20정체%20구간과%20유저%20이탈%20분석.pdf)
